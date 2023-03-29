@@ -4,3 +4,4 @@ def exec():
 exec()
 print("Hello World")
 print("HIIIIIIIIIIIIIIIIII!!!!!!!!!!!!!!!!!")
+print(0)
